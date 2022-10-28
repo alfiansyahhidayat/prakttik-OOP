@@ -1,3 +1,7 @@
+
+#Buat kelas Account sesuai dengan diagram UML untuk kelas Account sebelumnya,
+
+
 import java.util.Scanner;
 
 public abstract class Account {
