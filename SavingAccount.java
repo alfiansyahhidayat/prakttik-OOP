@@ -1,3 +1,6 @@
+
+#Buat subkelas SavingAccount sesuai dengan diagram UML sebelumnya
+
 public class SavingAccount extends Account {
     private double interestRate;
     public SavingAccount() {
